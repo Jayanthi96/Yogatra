@@ -13,5 +13,4 @@ Computer Vision ,Natural Language Processing
 Mediapipe<Br>
 pyttsx3
 
-## Project Demo Video
-https://youtu.be/Mb7nMfBYu_8
+
